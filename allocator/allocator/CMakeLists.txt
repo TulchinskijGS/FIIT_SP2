@@ -1,0 +1,9 @@
+add_library(
+        sys_prog_allctr_allctr
+        src/allocator_test_utils.cpp
+        src/allocator_dbg_helper.cpp
+        src/pp_allocator.cpp)
+target_include_directories(
+        sys_prog_allctr_allctr
+        PUBLIC
+        ./include)

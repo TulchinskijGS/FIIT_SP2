@@ -1,0 +1,6 @@
+add_subdirectory(allocator)
+add_subdirectory(allocator_boundary_tags)
+add_subdirectory(allocator_buddies_system)
+add_subdirectory(allocator_global_heap)
+add_subdirectory(allocator_red_black_tree)
+add_subdirectory(allocator_sorted_list)
