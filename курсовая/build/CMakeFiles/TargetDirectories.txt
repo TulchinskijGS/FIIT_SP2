@@ -1,0 +1,3 @@
+/home/tulchinskij/FIIT_SP_2/FIIT_SP-master/FIIT_SP-master/курсовая/build/CMakeFiles/prog.dir
+/home/tulchinskij/FIIT_SP_2/FIIT_SP-master/FIIT_SP-master/курсовая/build/CMakeFiles/edit_cache.dir
+/home/tulchinskij/FIIT_SP_2/FIIT_SP-master/FIIT_SP-master/курсовая/build/CMakeFiles/rebuild_cache.dir
